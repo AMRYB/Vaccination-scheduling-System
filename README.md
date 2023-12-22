@@ -1,9 +1,9 @@
-# Vaccination Scheduling System
+# Vaccination Scheduling System🧑‍⚕️
 
 ## Project Overview
 The Vaccination Scheduling System is a pivotal tool in automating the vaccination process in Egypt. Developed to assist the Ministry of Health's special vaccination units, this system simplifies the registration and scheduling of vaccinations for both administrators and users, ensuring a more organized and effective vaccination campaign.
 
-## Team Members
+## Team Members👪
 - **Project Leader:** Amr Yasser
 - **Assistants:**
   - Farid El-Sharkawy
@@ -41,4 +41,4 @@ The Vaccination Scheduling System is a pivotal tool in automating the vaccinatio
 - User-friendly interface for easy appointment scheduling.
 - Secure authentication and user data protection.
 - Real-time updates and notifications on vaccination appointments.
-### **This Project of mine was all typed with my fingers, and I sought assistance from ASWEPRO and Dr. Khulood to solve the problems.**
+### **This Project of mine was all typed with my fingers, and I sought assistance from ASWEPRO and Dr. Khulood to solve the problems.💖**
