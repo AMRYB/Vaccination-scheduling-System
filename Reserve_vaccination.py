@@ -52,9 +52,7 @@ def register_vaccination_request(user_id, name):
                     return
 
     except FileNotFoundError:
-        pass  # If the file doesn't exist, we can proceed to create a new entry.
-
-    # Display available vaccination centers and vaccines
+        pass
     try:
         with open("VaccinationCenter.txt", "r") as file:
             centers = file.readlines()
